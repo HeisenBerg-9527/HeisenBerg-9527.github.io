@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/HeisenBerg-9527/HeisenBerg-9527.github.io.git
+  repo: https://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@github.com/HeisenBerg-9527/HeisenBerg-9527.github.io.git
   branch: master
